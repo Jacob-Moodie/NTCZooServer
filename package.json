@@ -5,8 +5,8 @@
   "license": "ISC",
   "author": "",
   "type": "module",
-  "main": "zoo.js",
-"scripts": {
+"main": "server/app.js",
+  "scripts": {
   "start": "node server/app.js",
   "test": "echo No tests needed"
   },
